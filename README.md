@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello! I'm Promise Okoro
 
-<!--
-**PromiseOkoro-DataAnalyst/PromiseOkoro-DataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | SEO Content Writer  
+📊 Skilled in SQL, Python, Excel, Power BI, Tableau  
+💡 Passionate about turning data into actionable insights  
 
-Here are some ideas to get you started:
+## 📌 My Projects
+- 🔍 [Sales Dashboard Analysis](https://github.com/PromiseOkoro/Sales-Dashboard)
+- 📉 [COVID-19 Data Visualization in Tableau](https://github.com/PromiseOkoro/COVID19-Tableau)
+- 📈 [E-commerce Customer Segmentation with Python](https://github.com/PromiseOkoro/Customer-Segmentation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Certifications
+- Defree in Data Science, Aptech Computer Education (2023)    
+- Data Science Intern @ Deloitte (2023-2024)
+
+## 📫 Contact Me
+- 📧 promiseokoro210@gmail.com 
+
+
